@@ -1,0 +1,501 @@
+task_id,description,category,deadline_days,workload,priority,assigned_user
+1,Deploy application to production,Deployment,4,1,High,Tester_A
+2,Implement payment module,Development,8,3,Medium,Developer_A
+3,Configure production server,Deployment,24,9,Low,Developer_A
+4,Write technical documentation,Documentation,14,1,Medium,Developer_A
+5,Fix application crash issue,Bug Fix,7,4,Medium,DevOps_A
+6,Prepare software requirement document,Documentation,1,9,High,Developer_B
+7,Setup CI CD pipeline,Deployment,21,9,Low,Tester_B
+8,Implement payment module,Development,15,10,Medium,Tester_A
+9,Fix login authentication bug,Bug Fix,25,3,Low,Tester_B
+10,Test login functionality,Testing,9,3,Medium,Developer_B
+11,Configure cloud infrastructure,Deployment,11,2,Medium,Developer_A
+12,Execute regression testing,Testing,4,6,High,Tester_A
+13,Prepare software requirement document,Documentation,9,1,Medium,Tester_B
+14,Create user manual,Documentation,4,7,High,Developer_A
+15,Create user manual,Documentation,10,10,Medium,Tester_A
+16,Write technical documentation,Documentation,7,2,Medium,Developer_A
+17,Configure production server,Deployment,8,5,Medium,Developer_A
+18,Implement payment module,Development,28,2,Low,Tester_B
+19,Build notification system,Development,15,6,Medium,Developer_B
+20,Perform payment module testing,Testing,12,4,Medium,Tester_A
+21,Setup CI CD pipeline,Deployment,30,2,Low,DevOps_A
+22,Deploy application to production,Deployment,6,9,Medium,Developer_B
+23,Develop user profile page,Development,15,7,Medium,Tester_A
+24,Deploy application to production,Deployment,23,9,Low,Developer_B
+25,Configure production server,Deployment,11,1,Medium,Developer_B
+26,Resolve payment gateway error,Bug Fix,26,6,Low,Tester_B
+27,Build notification system,Development,3,4,High,DevOps_A
+28,Setup CI CD pipeline,Deployment,11,4,Medium,Tester_B
+29,Execute regression testing,Testing,29,8,Low,Developer_B
+30,Build notification system,Development,5,4,High,DevOps_A
+31,Create user manual,Documentation,9,10,Medium,Tester_B
+32,Write technical documentation,Documentation,13,6,Medium,Developer_B
+33,Resolve database connection error,Bug Fix,17,8,Low,Developer_A
+34,Configure cloud infrastructure,Deployment,2,2,High,Developer_B
+35,Deploy application to production,Deployment,6,7,Medium,DevOps_A
+36,Fix application crash issue,Bug Fix,13,7,Medium,DevOps_A
+37,Perform API testing,Testing,17,5,Low,DevOps_A
+38,Fix login authentication bug,Bug Fix,22,2,Low,DevOps_A
+39,Configure cloud infrastructure,Deployment,9,6,Medium,Developer_A
+40,Develop search functionality,Development,14,3,Medium,Tester_B
+41,Fix login authentication bug,Bug Fix,24,5,Low,DevOps_A
+42,Configure cloud infrastructure,Deployment,6,9,Medium,Developer_A
+43,Deploy application to production,Deployment,10,9,Medium,DevOps_A
+44,Create admin dashboard,Development,5,6,High,Developer_B
+45,Create user manual,Documentation,25,9,Low,Developer_A
+46,Prepare software requirement document,Documentation,11,8,Medium,Developer_A
+47,Debug user registration problem,Bug Fix,30,6,Low,Tester_A
+48,Implement payment module,Development,2,4,High,DevOps_A
+49,Fix application crash issue,Bug Fix,3,8,High,Developer_A
+50,Configure cloud infrastructure,Deployment,18,3,Low,Developer_B
+51,Configure production server,Deployment,16,9,Low,Developer_B
+52,Build notification system,Development,17,10,Low,Tester_B
+53,Create admin dashboard,Development,30,9,Low,Developer_B
+54,Setup CI CD pipeline,Deployment,10,7,Medium,Tester_A
+55,Perform API testing,Testing,29,9,Low,Tester_B
+56,Debug user registration problem,Bug Fix,8,4,Medium,Developer_A
+57,Test login functionality,Testing,1,10,High,DevOps_A
+58,Implement payment module,Development,19,4,Low,Developer_A
+59,Fix application crash issue,Bug Fix,23,1,Low,Developer_B
+60,Fix application crash issue,Bug Fix,29,1,Low,Tester_A
+61,Fix application crash issue,Bug Fix,17,4,Low,Tester_A
+62,Configure production server,Deployment,16,4,Low,DevOps_A
+63,Resolve database connection error,Bug Fix,24,10,Low,DevOps_A
+64,Prepare project documentation,Documentation,8,8,Medium,Tester_B
+65,Create admin dashboard,Development,4,2,High,Tester_B
+66,Perform payment module testing,Testing,14,7,Medium,Tester_B
+67,Deploy backend service,Deployment,2,2,High,Developer_A
+68,Execute regression testing,Testing,24,6,Low,Developer_A
+69,Implement payment module,Development,7,4,Medium,DevOps_A
+70,Perform API testing,Testing,5,7,High,Developer_B
+71,Build notification system,Development,15,4,Medium,Developer_A
+72,Perform API testing,Testing,26,9,Low,Developer_A
+73,Resolve payment gateway error,Bug Fix,21,9,Low,Developer_A
+74,Fix application crash issue,Bug Fix,30,4,Low,Developer_B
+75,Test user registration module,Testing,16,8,Low,Developer_B
+76,Execute regression testing,Testing,29,1,Low,Developer_B
+77,Execute regression testing,Testing,1,7,High,Tester_A
+78,Perform API testing,Testing,10,7,Medium,DevOps_A
+79,Configure production server,Deployment,23,8,Low,Developer_B
+80,Create admin dashboard,Development,10,4,Medium,Developer_A
+81,Write technical documentation,Documentation,24,9,Low,Developer_A
+82,Deploy backend service,Deployment,11,1,Medium,Developer_A
+83,Write technical documentation,Documentation,16,9,Low,DevOps_A
+84,Develop user profile page,Development,2,9,High,Developer_A
+85,Develop user profile page,Development,3,10,High,Developer_A
+86,Configure production server,Deployment,28,4,Low,Tester_B
+87,Debug user registration problem,Bug Fix,29,10,Low,Developer_B
+88,Write technical documentation,Documentation,20,1,Low,DevOps_A
+89,Fix application crash issue,Bug Fix,14,10,Medium,DevOps_A
+90,Update API documentation,Documentation,11,5,Medium,Developer_B
+91,Configure production server,Deployment,23,6,Low,Developer_B
+92,Build notification system,Development,13,3,Medium,Tester_A
+93,Perform API testing,Testing,11,2,Medium,Developer_A
+94,Perform API testing,Testing,20,10,Low,Developer_A
+95,Fix application crash issue,Bug Fix,18,4,Low,DevOps_A
+96,Build notification system,Development,5,6,High,Developer_A
+97,Implement payment module,Development,12,5,Medium,Developer_B
+98,Perform API testing,Testing,27,9,Low,Tester_A
+99,Prepare software requirement document,Documentation,26,9,Low,Developer_A
+100,Configure production server,Deployment,27,9,Low,Tester_A
+101,Configure production server,Deployment,4,3,High,Tester_A
+102,Debug user registration problem,Bug Fix,29,2,Low,DevOps_A
+103,Resolve database connection error,Bug Fix,9,5,Medium,DevOps_A
+104,Create admin dashboard,Development,23,6,Low,Developer_B
+105,Configure production server,Deployment,21,5,Low,DevOps_A
+106,Prepare project documentation,Documentation,9,1,Medium,Developer_A
+107,Deploy application to production,Deployment,14,5,Medium,Developer_A
+108,Fix login authentication bug,Bug Fix,11,3,Medium,Tester_A
+109,Develop user profile page,Development,24,8,Low,DevOps_A
+110,Setup CI CD pipeline,Deployment,14,9,Medium,Developer_A
+111,Debug user registration problem,Bug Fix,3,3,High,DevOps_A
+112,Resolve payment gateway error,Bug Fix,27,6,Low,DevOps_A
+113,Create user manual,Documentation,5,7,High,Developer_B
+114,Resolve payment gateway error,Bug Fix,10,6,Medium,Developer_A
+115,Perform payment module testing,Testing,7,4,Medium,Developer_A
+116,Perform payment module testing,Testing,25,9,Low,Tester_B
+117,Prepare software requirement document,Documentation,24,3,Low,Developer_B
+118,Develop user profile page,Development,26,3,Low,Tester_B
+119,Fix login authentication bug,Bug Fix,6,6,Medium,Tester_B
+120,Configure production server,Deployment,28,4,Low,Tester_A
+121,Develop user profile page,Development,26,2,Low,Tester_B
+122,Resolve payment gateway error,Bug Fix,28,8,Low,Developer_B
+123,Create admin dashboard,Development,27,8,Low,Tester_A
+124,Develop search functionality,Development,27,4,Low,Developer_B
+125,Fix login authentication bug,Bug Fix,22,4,Low,Tester_B
+126,Test login functionality,Testing,9,2,Medium,Tester_A
+127,Perform payment module testing,Testing,21,9,Low,Tester_B
+128,Configure production server,Deployment,27,9,Low,Tester_A
+129,Fix login authentication bug,Bug Fix,4,5,High,Developer_B
+130,Write technical documentation,Documentation,9,1,Medium,Developer_A
+131,Prepare software requirement document,Documentation,14,6,Medium,Tester_A
+132,Test user registration module,Testing,20,9,Low,Developer_A
+133,Execute regression testing,Testing,29,10,Low,Developer_B
+134,Build notification system,Development,2,7,High,Developer_A
+135,Update API documentation,Documentation,30,9,Low,Developer_B
+136,Perform payment module testing,Testing,14,2,Medium,Tester_A
+137,Prepare software requirement document,Documentation,11,2,Medium,Tester_A
+138,Update API documentation,Documentation,10,7,Medium,Tester_A
+139,Execute regression testing,Testing,23,5,Low,DevOps_A
+140,Resolve database connection error,Bug Fix,7,7,Medium,Tester_B
+141,Configure production server,Deployment,24,3,Low,DevOps_A
+142,Write technical documentation,Documentation,10,7,Medium,DevOps_A
+143,Fix login authentication bug,Bug Fix,10,5,Medium,Developer_B
+144,Test user registration module,Testing,26,10,Low,DevOps_A
+145,Deploy application to production,Deployment,11,8,Medium,Tester_B
+146,Perform API testing,Testing,22,4,Low,DevOps_A
+147,Prepare project documentation,Documentation,26,3,Low,Developer_A
+148,Develop search functionality,Development,17,10,Low,Tester_A
+149,Fix application crash issue,Bug Fix,27,4,Low,Tester_A
+150,Implement payment module,Development,26,4,Low,Developer_B
+151,Fix login authentication bug,Bug Fix,2,4,High,Tester_B
+152,Prepare software requirement document,Documentation,28,2,Low,Tester_B
+153,Test user registration module,Testing,29,10,Low,Developer_B
+154,Setup CI CD pipeline,Deployment,23,7,Low,Tester_B
+155,Execute regression testing,Testing,8,3,Medium,Developer_A
+156,Configure cloud infrastructure,Deployment,28,2,Low,Tester_B
+157,Implement payment module,Development,6,9,Medium,Tester_B
+158,Resolve payment gateway error,Bug Fix,18,4,Low,Developer_A
+159,Perform API testing,Testing,5,8,High,DevOps_A
+160,Create user manual,Documentation,20,6,Low,Tester_B
+161,Prepare software requirement document,Documentation,27,9,Low,Tester_B
+162,Create user manual,Documentation,15,3,Medium,Tester_B
+163,Perform API testing,Testing,9,4,Medium,Tester_A
+164,Configure cloud infrastructure,Deployment,25,9,Low,Tester_B
+165,Deploy application to production,Deployment,8,5,Medium,Tester_B
+166,Fix application crash issue,Bug Fix,23,5,Low,Developer_B
+167,Build notification system,Development,11,6,Medium,DevOps_A
+168,Fix application crash issue,Bug Fix,5,3,High,Developer_B
+169,Execute regression testing,Testing,23,3,Low,Developer_B
+170,Fix application crash issue,Bug Fix,14,7,Medium,Tester_A
+171,Create user manual,Documentation,15,7,Medium,Developer_A
+172,Create admin dashboard,Development,27,7,Low,Tester_B
+173,Configure cloud infrastructure,Deployment,19,1,Low,DevOps_A
+174,Execute regression testing,Testing,16,1,Low,Tester_A
+175,Develop search functionality,Development,25,7,Low,Tester_B
+176,Create user manual,Documentation,24,9,Low,DevOps_A
+177,Implement payment module,Development,16,4,Low,Tester_A
+178,Test user registration module,Testing,16,1,Low,Tester_B
+179,Test login functionality,Testing,22,7,Low,Developer_B
+180,Perform API testing,Testing,30,3,Low,DevOps_A
+181,Create user manual,Documentation,1,7,High,DevOps_A
+182,Write technical documentation,Documentation,22,1,Low,Developer_A
+183,Deploy application to production,Deployment,14,3,Medium,Tester_B
+184,Develop user profile page,Development,2,5,High,Tester_B
+185,Test login functionality,Testing,7,8,Medium,Tester_A
+186,Test login functionality,Testing,25,7,Low,Tester_A
+187,Configure cloud infrastructure,Deployment,27,7,Low,Tester_A
+188,Fix application crash issue,Bug Fix,16,1,Low,DevOps_A
+189,Resolve payment gateway error,Bug Fix,12,4,Medium,Developer_A
+190,Configure cloud infrastructure,Deployment,21,1,Low,Developer_A
+191,Implement payment module,Development,7,1,Medium,DevOps_A
+192,Resolve database connection error,Bug Fix,8,3,Medium,Tester_B
+193,Configure production server,Deployment,4,10,High,Developer_B
+194,Perform API testing,Testing,23,5,Low,Tester_A
+195,Develop user profile page,Development,20,10,Low,Developer_A
+196,Configure cloud infrastructure,Deployment,27,3,Low,Tester_A
+197,Debug user registration problem,Bug Fix,19,1,Low,Tester_A
+198,Write technical documentation,Documentation,22,7,Low,Tester_B
+199,Setup CI CD pipeline,Deployment,7,2,Medium,DevOps_A
+200,Setup CI CD pipeline,Deployment,27,4,Low,Developer_A
+201,Setup CI CD pipeline,Deployment,25,5,Low,DevOps_A
+202,Debug user registration problem,Bug Fix,26,10,Low,Developer_A
+203,Perform payment module testing,Testing,18,7,Low,Tester_A
+204,Fix application crash issue,Bug Fix,17,6,Low,Developer_A
+205,Test user registration module,Testing,27,8,Low,Developer_A
+206,Test user registration module,Testing,12,8,Medium,Developer_B
+207,Test user registration module,Testing,6,9,Medium,Tester_A
+208,Prepare software requirement document,Documentation,26,9,Low,Tester_B
+209,Perform API testing,Testing,14,10,Medium,Tester_A
+210,Test login functionality,Testing,28,4,Low,Developer_A
+211,Build notification system,Development,29,8,Low,Developer_B
+212,Configure cloud infrastructure,Deployment,15,10,Medium,DevOps_A
+213,Configure production server,Deployment,13,6,Medium,Developer_A
+214,Prepare project documentation,Documentation,28,6,Low,Developer_B
+215,Prepare project documentation,Documentation,7,6,Medium,Tester_A
+216,Test login functionality,Testing,9,10,Medium,Tester_A
+217,Create user manual,Documentation,1,9,High,Developer_B
+218,Fix application crash issue,Bug Fix,8,7,Medium,Tester_B
+219,Create user manual,Documentation,25,4,Low,Tester_B
+220,Deploy application to production,Deployment,23,8,Low,Tester_B
+221,Fix login authentication bug,Bug Fix,3,5,High,Developer_B
+222,Execute regression testing,Testing,23,4,Low,Tester_A
+223,Configure production server,Deployment,19,6,Low,Tester_B
+224,Create user manual,Documentation,17,6,Low,Tester_B
+225,Deploy backend service,Deployment,18,6,Low,Tester_A
+226,Setup CI CD pipeline,Deployment,15,5,Medium,Tester_A
+227,Build notification system,Development,8,2,Medium,Developer_B
+228,Test login functionality,Testing,4,9,High,Developer_B
+229,Create admin dashboard,Development,7,8,Medium,Tester_A
+230,Deploy backend service,Deployment,19,9,Low,DevOps_A
+231,Develop search functionality,Development,4,4,High,Tester_A
+232,Implement payment module,Development,12,3,Medium,Tester_A
+233,Fix login authentication bug,Bug Fix,23,9,Low,Developer_B
+234,Build notification system,Development,2,1,High,DevOps_A
+235,Develop search functionality,Development,23,3,Low,Tester_B
+236,Debug user registration problem,Bug Fix,28,1,Low,DevOps_A
+237,Develop search functionality,Development,16,8,Low,Tester_B
+238,Test login functionality,Testing,6,1,Medium,Tester_A
+239,Prepare project documentation,Documentation,4,2,High,Tester_B
+240,Prepare project documentation,Documentation,3,10,High,Developer_A
+241,Resolve database connection error,Bug Fix,5,10,High,Tester_A
+242,Fix application crash issue,Bug Fix,8,2,Medium,DevOps_A
+243,Configure cloud infrastructure,Deployment,14,10,Medium,DevOps_A
+244,Prepare software requirement document,Documentation,8,9,Medium,Tester_B
+245,Perform API testing,Testing,30,8,Low,Tester_A
+246,Write technical documentation,Documentation,14,5,Medium,DevOps_A
+247,Prepare software requirement document,Documentation,2,10,High,Developer_A
+248,Configure cloud infrastructure,Deployment,7,4,Medium,Tester_A
+249,Configure production server,Deployment,3,3,High,Developer_B
+250,Develop user profile page,Development,18,2,Low,Developer_B
+251,Fix login authentication bug,Bug Fix,14,8,Medium,DevOps_A
+252,Prepare project documentation,Documentation,10,1,Medium,Developer_B
+253,Develop search functionality,Development,23,5,Low,Tester_B
+254,Fix application crash issue,Bug Fix,22,4,Low,Tester_A
+255,Deploy application to production,Deployment,19,4,Low,Tester_B
+256,Debug user registration problem,Bug Fix,18,4,Low,Developer_B
+257,Build notification system,Development,27,3,Low,Developer_A
+258,Resolve payment gateway error,Bug Fix,6,5,Medium,DevOps_A
+259,Deploy backend service,Deployment,27,10,Low,Tester_A
+260,Perform API testing,Testing,4,8,High,Tester_A
+261,Setup CI CD pipeline,Deployment,13,5,Medium,DevOps_A
+262,Create user manual,Documentation,16,8,Low,Developer_A
+263,Prepare software requirement document,Documentation,2,7,High,Tester_A
+264,Prepare software requirement document,Documentation,9,1,Medium,Developer_A
+265,Implement payment module,Development,22,10,Low,DevOps_A
+266,Fix login authentication bug,Bug Fix,25,5,Low,DevOps_A
+267,Resolve payment gateway error,Bug Fix,25,3,Low,Tester_B
+268,Update API documentation,Documentation,21,8,Low,Tester_A
+269,Develop user profile page,Development,19,7,Low,Tester_B
+270,Fix application crash issue,Bug Fix,16,6,Low,Tester_B
+271,Test login functionality,Testing,11,2,Medium,Developer_B
+272,Test login functionality,Testing,14,8,Medium,Tester_A
+273,Configure production server,Deployment,13,9,Medium,Developer_A
+274,Perform API testing,Testing,3,6,High,Tester_A
+275,Test login functionality,Testing,4,7,High,DevOps_A
+276,Fix login authentication bug,Bug Fix,22,9,Low,Tester_B
+277,Test user registration module,Testing,2,4,High,DevOps_A
+278,Perform payment module testing,Testing,20,8,Low,Tester_B
+279,Configure cloud infrastructure,Deployment,2,4,High,Tester_A
+280,Create user manual,Documentation,5,5,High,Tester_B
+281,Setup CI CD pipeline,Deployment,16,2,Low,Developer_A
+282,Deploy application to production,Deployment,20,4,Low,Developer_B
+283,Develop search functionality,Development,18,1,Low,DevOps_A
+284,Test user registration module,Testing,3,4,High,Developer_A
+285,Perform API testing,Testing,4,3,High,Tester_B
+286,Setup CI CD pipeline,Deployment,10,9,Medium,Tester_A
+287,Test user registration module,Testing,27,8,Low,Tester_B
+288,Implement payment module,Development,15,9,Medium,Developer_B
+289,Execute regression testing,Testing,7,10,Medium,DevOps_A
+290,Deploy backend service,Deployment,29,3,Low,Developer_A
+291,Build notification system,Development,25,7,Low,Tester_A
+292,Update API documentation,Documentation,9,1,Medium,Tester_A
+293,Deploy backend service,Deployment,10,10,Medium,DevOps_A
+294,Configure production server,Deployment,16,3,Low,Tester_B
+295,Create user manual,Documentation,16,6,Low,Tester_A
+296,Create user manual,Documentation,25,9,Low,Tester_B
+297,Perform API testing,Testing,30,6,Low,Developer_B
+298,Setup CI CD pipeline,Deployment,8,10,Medium,Tester_B
+299,Implement payment module,Development,28,7,Low,Developer_A
+300,Test login functionality,Testing,24,8,Low,Tester_B
+301,Execute regression testing,Testing,22,3,Low,Tester_B
+302,Resolve payment gateway error,Bug Fix,5,9,High,DevOps_A
+303,Test login functionality,Testing,28,2,Low,Tester_B
+304,Debug user registration problem,Bug Fix,17,8,Low,Developer_A
+305,Deploy backend service,Deployment,5,7,High,Developer_B
+306,Fix application crash issue,Bug Fix,16,5,Low,Tester_A
+307,Prepare software requirement document,Documentation,23,7,Low,Developer_A
+308,Test login functionality,Testing,28,9,Low,Tester_B
+309,Test login functionality,Testing,21,8,Low,DevOps_A
+310,Resolve payment gateway error,Bug Fix,20,2,Low,Developer_B
+311,Deploy application to production,Deployment,22,5,Low,Developer_B
+312,Deploy backend service,Deployment,3,7,High,Developer_A
+313,Configure cloud infrastructure,Deployment,21,2,Low,Tester_B
+314,Develop user profile page,Development,23,5,Low,Developer_A
+315,Resolve payment gateway error,Bug Fix,11,1,Medium,Tester_A
+316,Perform payment module testing,Testing,12,7,Medium,Developer_B
+317,Implement payment module,Development,17,7,Low,DevOps_A
+318,Configure production server,Deployment,26,3,Low,Developer_B
+319,Develop user profile page,Development,3,10,High,Tester_B
+320,Prepare software requirement document,Documentation,22,4,Low,Tester_B
+321,Write technical documentation,Documentation,5,4,High,Tester_B
+322,Deploy application to production,Deployment,9,8,Medium,Tester_A
+323,Configure production server,Deployment,1,8,High,Tester_A
+324,Configure production server,Deployment,18,3,Low,Developer_A
+325,Perform API testing,Testing,12,10,Medium,Tester_A
+326,Deploy application to production,Deployment,14,5,Medium,Tester_B
+327,Develop search functionality,Development,7,7,Medium,Tester_B
+328,Debug user registration problem,Bug Fix,8,7,Medium,DevOps_A
+329,Perform payment module testing,Testing,19,5,Low,Tester_A
+330,Fix login authentication bug,Bug Fix,27,7,Low,Tester_A
+331,Fix login authentication bug,Bug Fix,19,1,Low,DevOps_A
+332,Deploy backend service,Deployment,16,5,Low,Developer_B
+333,Prepare software requirement document,Documentation,26,6,Low,Developer_B
+334,Deploy application to production,Deployment,7,10,Medium,Tester_A
+335,Configure production server,Deployment,25,3,Low,Developer_A
+336,Deploy application to production,Deployment,21,1,Low,Tester_A
+337,Perform API testing,Testing,2,10,High,Tester_A
+338,Deploy backend service,Deployment,5,2,High,Tester_A
+339,Test login functionality,Testing,24,7,Low,Developer_B
+340,Create admin dashboard,Development,5,9,High,Tester_A
+341,Update API documentation,Documentation,17,5,Low,Developer_B
+342,Build notification system,Development,30,8,Low,Tester_A
+343,Deploy backend service,Deployment,28,6,Low,Developer_A
+344,Perform API testing,Testing,3,3,High,Developer_B
+345,Configure production server,Deployment,24,7,Low,DevOps_A
+346,Perform payment module testing,Testing,3,7,High,Developer_A
+347,Build notification system,Development,18,2,Low,Tester_B
+348,Perform payment module testing,Testing,22,5,Low,DevOps_A
+349,Execute regression testing,Testing,27,6,Low,Developer_A
+350,Configure production server,Deployment,8,8,Medium,Developer_A
+351,Prepare software requirement document,Documentation,29,9,Low,Tester_A
+352,Prepare software requirement document,Documentation,8,2,Medium,Tester_B
+353,Setup CI CD pipeline,Deployment,10,7,Medium,Developer_A
+354,Resolve database connection error,Bug Fix,2,1,High,Tester_A
+355,Prepare project documentation,Documentation,4,2,High,Developer_B
+356,Create user manual,Documentation,5,7,High,Tester_B
+357,Perform payment module testing,Testing,22,9,Low,Tester_B
+358,Write technical documentation,Documentation,24,3,Low,Tester_B
+359,Deploy application to production,Deployment,4,8,High,DevOps_A
+360,Test user registration module,Testing,9,1,Medium,Tester_A
+361,Create admin dashboard,Development,15,8,Medium,Developer_B
+362,Perform payment module testing,Testing,4,6,High,DevOps_A
+363,Deploy application to production,Deployment,12,1,Medium,Tester_B
+364,Build notification system,Development,7,2,Medium,Tester_B
+365,Fix application crash issue,Bug Fix,22,4,Low,DevOps_A
+366,Fix login authentication bug,Bug Fix,2,6,High,Developer_B
+367,Resolve database connection error,Bug Fix,26,10,Low,Developer_B
+368,Fix application crash issue,Bug Fix,27,9,Low,Developer_B
+369,Write technical documentation,Documentation,7,4,Medium,Tester_A
+370,Configure cloud infrastructure,Deployment,5,10,High,Developer_A
+371,Build notification system,Development,28,3,Low,Developer_B
+372,Create user manual,Documentation,9,3,Medium,Developer_A
+373,Configure production server,Deployment,28,1,Low,Developer_B
+374,Fix login authentication bug,Bug Fix,12,4,Medium,DevOps_A
+375,Test login functionality,Testing,1,3,High,Tester_A
+376,Resolve payment gateway error,Bug Fix,5,7,High,DevOps_A
+377,Debug user registration problem,Bug Fix,24,2,Low,Tester_B
+378,Perform API testing,Testing,25,6,Low,DevOps_A
+379,Write technical documentation,Documentation,4,8,High,DevOps_A
+380,Implement payment module,Development,20,1,Low,DevOps_A
+381,Develop search functionality,Development,15,1,Medium,Developer_A
+382,Prepare project documentation,Documentation,28,7,Low,Tester_B
+383,Configure production server,Deployment,4,8,High,Tester_B
+384,Fix application crash issue,Bug Fix,29,2,Low,Tester_A
+385,Prepare software requirement document,Documentation,5,2,High,Developer_B
+386,Build notification system,Development,20,10,Low,DevOps_A
+387,Setup CI CD pipeline,Deployment,11,7,Medium,DevOps_A
+388,Update API documentation,Documentation,10,8,Medium,DevOps_A
+389,Prepare software requirement document,Documentation,14,2,Medium,Developer_A
+390,Deploy application to production,Deployment,21,9,Low,Developer_B
+391,Test user registration module,Testing,15,4,Medium,Tester_B
+392,Test login functionality,Testing,27,8,Low,Tester_B
+393,Test user registration module,Testing,24,2,Low,Tester_A
+394,Test user registration module,Testing,11,5,Medium,Tester_A
+395,Resolve database connection error,Bug Fix,22,8,Low,Developer_A
+396,Fix application crash issue,Bug Fix,27,2,Low,Developer_A
+397,Test user registration module,Testing,4,6,High,Developer_B
+398,Create user manual,Documentation,2,10,High,DevOps_A
+399,Create user manual,Documentation,11,2,Medium,Tester_B
+400,Perform payment module testing,Testing,28,7,Low,Developer_A
+401,Develop search functionality,Development,20,5,Low,Tester_A
+402,Debug user registration problem,Bug Fix,19,9,Low,Developer_B
+403,Resolve database connection error,Bug Fix,22,8,Low,Developer_B
+404,Debug user registration problem,Bug Fix,12,9,Medium,Tester_A
+405,Debug user registration problem,Bug Fix,25,5,Low,DevOps_A
+406,Implement payment module,Development,26,7,Low,DevOps_A
+407,Configure cloud infrastructure,Deployment,27,10,Low,DevOps_A
+408,Configure production server,Deployment,21,9,Low,Developer_A
+409,Prepare software requirement document,Documentation,30,5,Low,Developer_A
+410,Develop user profile page,Development,9,5,Medium,Tester_A
+411,Perform payment module testing,Testing,1,3,High,Developer_B
+412,Write technical documentation,Documentation,22,7,Low,Developer_A
+413,Resolve database connection error,Bug Fix,24,1,Low,Developer_A
+414,Deploy backend service,Deployment,17,4,Low,Tester_B
+415,Test user registration module,Testing,15,6,Medium,Developer_B
+416,Perform payment module testing,Testing,10,6,Medium,DevOps_A
+417,Prepare software requirement document,Documentation,3,1,High,Developer_B
+418,Develop user profile page,Development,25,10,Low,Developer_A
+419,Configure production server,Deployment,3,5,High,Tester_B
+420,Configure production server,Deployment,14,8,Medium,DevOps_A
+421,Perform API testing,Testing,14,5,Medium,Developer_B
+422,Configure cloud infrastructure,Deployment,17,2,Low,Tester_A
+423,Test user registration module,Testing,4,5,High,DevOps_A
+424,Prepare project documentation,Documentation,17,5,Low,Developer_A
+425,Implement payment module,Development,13,10,Medium,Developer_A
+426,Fix login authentication bug,Bug Fix,7,5,Medium,Developer_B
+427,Configure cloud infrastructure,Deployment,5,5,High,Tester_A
+428,Test login functionality,Testing,4,1,High,Tester_B
+429,Deploy backend service,Deployment,14,3,Medium,Developer_B
+430,Execute regression testing,Testing,18,4,Low,DevOps_A
+431,Create user manual,Documentation,27,6,Low,Developer_A
+432,Execute regression testing,Testing,28,1,Low,Tester_B
+433,Fix login authentication bug,Bug Fix,15,2,Medium,Tester_A
+434,Write technical documentation,Documentation,14,10,Medium,Tester_B
+435,Setup CI CD pipeline,Deployment,21,7,Low,Tester_A
+436,Debug user registration problem,Bug Fix,13,1,Medium,Tester_A
+437,Develop user profile page,Development,26,10,Low,Tester_B
+438,Setup CI CD pipeline,Deployment,30,6,Low,Developer_A
+439,Test user registration module,Testing,28,2,Low,Developer_B
+440,Test user registration module,Testing,19,7,Low,DevOps_A
+441,Fix application crash issue,Bug Fix,13,5,Medium,Tester_A
+442,Implement payment module,Development,11,3,Medium,Developer_A
+443,Update API documentation,Documentation,21,2,Low,DevOps_A
+444,Update API documentation,Documentation,7,6,Medium,Tester_A
+445,Deploy backend service,Deployment,27,3,Low,Developer_B
+446,Debug user registration problem,Bug Fix,5,5,High,Developer_B
+447,Develop user profile page,Development,20,3,Low,Developer_A
+448,Develop user profile page,Development,25,8,Low,Tester_B
+449,Configure cloud infrastructure,Deployment,19,10,Low,Tester_B
+450,Configure production server,Deployment,30,10,Low,DevOps_A
+451,Test login functionality,Testing,28,6,Low,Developer_B
+452,Perform API testing,Testing,3,8,High,Tester_B
+453,Deploy application to production,Deployment,10,5,Medium,DevOps_A
+454,Resolve payment gateway error,Bug Fix,12,9,Medium,Developer_A
+455,Develop search functionality,Development,15,8,Medium,Developer_A
+456,Resolve payment gateway error,Bug Fix,12,5,Medium,Developer_A
+457,Deploy application to production,Deployment,28,2,Low,DevOps_A
+458,Prepare software requirement document,Documentation,17,7,Low,Tester_B
+459,Write technical documentation,Documentation,18,1,Low,Tester_B
+460,Write technical documentation,Documentation,21,4,Low,Tester_A
+461,Prepare software requirement document,Documentation,16,9,Low,Developer_B
+462,Resolve payment gateway error,Bug Fix,15,2,Medium,Tester_A
+463,Setup CI CD pipeline,Deployment,3,9,High,Developer_B
+464,Resolve payment gateway error,Bug Fix,8,8,Medium,Tester_B
+465,Update API documentation,Documentation,17,10,Low,Developer_B
+466,Perform payment module testing,Testing,12,5,Medium,Tester_B
+467,Test user registration module,Testing,25,6,Low,DevOps_A
+468,Resolve payment gateway error,Bug Fix,26,6,Low,Developer_A
+469,Test login functionality,Testing,4,9,High,Tester_B
+470,Develop search functionality,Development,9,10,Medium,Developer_B
+471,Test login functionality,Testing,3,10,High,Developer_B
+472,Perform payment module testing,Testing,10,7,Medium,Developer_B
+473,Prepare software requirement document,Documentation,23,2,Low,Tester_A
+474,Create user manual,Documentation,13,6,Medium,Developer_B
+475,Configure production server,Deployment,23,9,Low,Developer_A
+476,Deploy application to production,Deployment,22,7,Low,DevOps_A
+477,Perform payment module testing,Testing,1,6,High,Tester_A
+478,Develop user profile page,Development,7,6,Medium,Tester_B
+479,Create admin dashboard,Development,8,3,Medium,Developer_B
+480,Fix application crash issue,Bug Fix,10,2,Medium,DevOps_A
+481,Configure cloud infrastructure,Deployment,18,9,Low,Developer_A
+482,Configure production server,Deployment,11,10,Medium,Developer_B
+483,Prepare software requirement document,Documentation,13,3,Medium,Developer_B
+484,Develop user profile page,Development,27,10,Low,Developer_B
+485,Deploy backend service,Deployment,15,1,Medium,Tester_B
+486,Perform payment module testing,Testing,22,4,Low,Tester_B
+487,Prepare software requirement document,Documentation,10,8,Medium,Developer_B
+488,Create user manual,Documentation,8,5,Medium,Tester_B
+489,Create admin dashboard,Development,12,10,Medium,Tester_B
+490,Perform API testing,Testing,25,5,Low,Tester_B
+491,Update API documentation,Documentation,17,7,Low,Developer_B
+492,Create admin dashboard,Development,26,10,Low,Developer_B
+493,Build notification system,Development,2,8,High,Tester_A
+494,Create user manual,Documentation,30,2,Low,DevOps_A
+495,Debug user registration problem,Bug Fix,10,2,Medium,Developer_B
+496,Build notification system,Development,15,9,Medium,Developer_B
+497,Test user registration module,Testing,3,4,High,Tester_B
+498,Perform payment module testing,Testing,30,1,Low,Tester_B
+499,Resolve payment gateway error,Bug Fix,13,9,Medium,Tester_A
+500,Implement payment module,Development,13,2,Medium,Tester_A
